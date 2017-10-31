@@ -7,6 +7,9 @@ global.moniData = [
         kucun: 10,
         code: '0001',
         select:1,
+        lastPrice:20,
+        discount:1,
+        ramark:"sss备注ddd",
     },
     {
         id: 1,
@@ -16,6 +19,9 @@ global.moniData = [
         kucun: 10,
         code: '0001',
         select:2,
+        lastPrice:20,
+        discount:1,
+        ramark:"",
     },
     {
         id: 1,
@@ -25,6 +31,9 @@ global.moniData = [
         kucun: 10,
         code: '0001',
         select:4,
+        lastPrice:20,
+        discount:1,
+        ramark:"",
     },
     {
         id: 1,
@@ -34,6 +43,9 @@ global.moniData = [
         kucun: 10,
         code: '0001',
         select:12,
+        lastPrice:20,
+        discount:1,
+        ramark:"",
     },
     {
         id: 1,
@@ -43,6 +55,9 @@ global.moniData = [
         kucun: 10,
         code: '0001',
         select:3,
+        lastPrice:20,
+        discount:1,
+        ramark:"",
     },
     {
         id: 1,
@@ -52,6 +67,9 @@ global.moniData = [
         kucun: 10,
         code: '0001',
         select:5,
+        lastPrice:20,
+        discount:1,
+        ramark:"",
     },
     {
         id: 1,
@@ -61,6 +79,9 @@ global.moniData = [
         kucun: 10,
         code: '0001',
         select:9,
+        lastPrice:20,
+        discount:1,
+        ramark:"",
     },
     {
         id: 1,
@@ -70,5 +91,8 @@ global.moniData = [
         kucun: 10,
         code: '0001',
         select:12,
+        lastPrice:20,
+        discount:1,
+        ramark:"",
     },
 ];

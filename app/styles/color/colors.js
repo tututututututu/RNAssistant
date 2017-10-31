@@ -1,0 +1,16 @@
+var globalColor: {
+    base_bg: "#eeeeee",
+    base_white: "#FFFFFF",
+    base_transparent: "#00000000",
+    base_origen_red: "#ce000d",
+    base_black: "#3d4245",
+    base_half_black: "#aa000000",
+    base_line_divider: "#eeeeee",
+    base_font: "#3d4245",
+    base_font_click: "#5eafff",
+    base_font_hint: "#999999",
+    base_title_bg: "#FFFFFF",
+    base_statusbar_bg: "#3d4245",
+    base_btn_enable_false: "#c8c8c8",
+    base_line_divider_last: "#dbdbdb",
+}

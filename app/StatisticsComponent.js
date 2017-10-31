@@ -11,3 +11,13 @@ export default class StatisticsComponent extends Component<{}> {
     );
   }
 }
+
+
+StatisticsComponent.navigationOptions = ({navigation}) => {
+
+    return {
+        header: null,
+        headerBackTitle: null,
+    };
+
+};

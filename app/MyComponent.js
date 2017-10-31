@@ -11,3 +11,13 @@ export default class MyComponent extends Component<{}> {
       );
     }
   }
+
+
+MyComponent.navigationOptions = ({navigation}) => {
+
+    return {
+        header: null,
+        headerBackTitle: null,
+    };
+
+};

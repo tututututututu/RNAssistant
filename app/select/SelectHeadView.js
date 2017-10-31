@@ -16,7 +16,7 @@ export default class SelectHeadView extends Component<{}> {
                 <View style={{flex: 1, flexDirection: 'row'}}>
                     <View style={styles.rund_bg}>
                         <TextInput style={styles.input_style} underlineColorAndroid="transparent"
-                                   placeholder="输款号"> </TextInput>
+                                   placeholder="输款号"></TextInput>
                     </View>
 
 
@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
 
     input_style: {
         fontSize: 18,
-        paddingLeft: 10,
+        paddingLeft: 14,
     },
     image_style: {},
 
@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
         marginBottom: 4,
         flex: 1,
         marginLeft: 20,
-        backgroundColor: '#cccccc',
+        backgroundColor: '#eeeeee',
         borderRadius: 100,
     },
 
